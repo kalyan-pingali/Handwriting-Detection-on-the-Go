@@ -1,0 +1,138 @@
+Before adjustments to scheduling policy:
+Pthread Policy is SCHED_OTHER
+After adjustments to scheduling policy:
+Pthread Policy is SCHED_FIFO
+
+
+
+Response for test image (input is the alphabet 'I') is : I
+
+
+kNN initialization successful
+Live video thread creation successful
+Frame grabber thread creation successful
+Print it thread creation successful
+
+
+
+Result is : I
+
+
+Total time taken by live_video thread is : seconds = 0, milliseconds = 200
+Total time taken by frame_grabber thread is : seconds = 0, milliseconds = 57
+frame_grabber thread spawned at : seconds = 2, milliseconds = 983
+Total time taken by print_it thread is : seconds = 0, milliseconds = 1
+
+
+
+Result is : I
+
+
+Total time taken by live_video thread is : seconds = 0, milliseconds = 202
+Total time taken by frame_grabber thread is : seconds = 0, milliseconds = 53
+frame_grabber thread spawned at : seconds = 5, milliseconds = 990
+Total time taken by print_it thread is : seconds = 0, milliseconds = 1
+
+
+
+Result is : I
+
+
+Total time taken by live_video thread is : seconds = 0, milliseconds = 200
+Total time taken by frame_grabber thread is : seconds = 0, milliseconds = 51
+frame_grabber thread spawned at : seconds = 9, milliseconds = 1
+Total time taken by print_it thread is : seconds = 0, milliseconds = 1
+
+
+
+Result is : I
+
+
+Total time taken by live_video thread is : seconds = 0, milliseconds = 200
+Total time taken by frame_grabber thread is : seconds = 0, milliseconds = 56
+frame_grabber thread spawned at : seconds = 12, milliseconds = 0
+Total time taken by print_it thread is : seconds = 0, milliseconds = 1
+
+
+
+Result is : I
+
+
+Total time taken by live_video thread is : seconds = 0, milliseconds = 200
+Total time taken by frame_grabber thread is : seconds = 0, milliseconds = 50
+frame_grabber thread spawned at : seconds = 15, milliseconds = 37
+Total time taken by print_it thread is : seconds = 0, milliseconds = 1
+
+
+
+Result is : I
+
+
+Total time taken by live_video thread is : seconds = 0, milliseconds = 200
+Total time taken by frame_grabber thread is : seconds = 0, milliseconds = 52
+frame_grabber thread spawned at : seconds = 18, milliseconds = 24
+Total time taken by print_it thread is : seconds = 0, milliseconds = 1
+
+
+
+Result is : I
+
+
+Total time taken by live_video thread is : seconds = 0, milliseconds = 202
+Total time taken by frame_grabber thread is : seconds = 0, milliseconds = 52
+frame_grabber thread spawned at : seconds = 21, milliseconds = 58
+Total time taken by print_it thread is : seconds = 0, milliseconds = 1
+
+
+
+Result is : I
+
+
+Total time taken by live_video thread is : seconds = 0, milliseconds = 200
+Total time taken by frame_grabber thread is : seconds = 0, milliseconds = 51
+frame_grabber thread spawned at : seconds = 24, milliseconds = 84
+Total time taken by print_it thread is : seconds = 0, milliseconds = 1
+
+
+
+Result is : I
+
+
+Total time taken by live_video thread is : seconds = 0, milliseconds = 200
+Total time taken by frame_grabber thread is : seconds = 0, milliseconds = 54
+frame_grabber thread spawned at : seconds = 27, milliseconds = 69
+Total time taken by print_it thread is : seconds = 0, milliseconds = 1
+
+
+
+Result is : I
+
+
+Total time taken by live_video thread is : seconds = 0, milliseconds = 200
+Total time taken by frame_grabber thread is : seconds = 0, milliseconds = 50
+frame_grabber thread spawned at : seconds = 30, milliseconds = 86
+Total time taken by print_it thread is : seconds = 0, milliseconds = 1
+
+
+
+Result is : I
+
+
+Total time taken by live_video thread is : seconds = 0, milliseconds = 200
+Total time taken by frame_grabber thread is : seconds = 0, milliseconds = 51
+frame_grabber thread spawned at : seconds = 33, milliseconds = 93
+Total time taken by print_it thread is : seconds = 0, milliseconds = 1
+
+
+
+Result is : I
+
+
+Total time taken by live_video thread is : seconds = 0, milliseconds = 200
+Total time taken by frame_grabber thread is : seconds = 0, milliseconds = 49
+frame_grabber thread spawned at : seconds = 36, milliseconds = 98
+Total time taken by print_it thread is : seconds = 0, milliseconds = 1
+
+
+
+Result is : I
